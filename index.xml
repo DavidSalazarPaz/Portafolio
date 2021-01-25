@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio de proyectos en Ciencia de Datos e Investigación on David Salazar</title>
+    <link>https://davidsalazarpaz.github.io/Portafolio/</link>
+    <description>Recent content in Portafolio de proyectos en Ciencia de Datos e Investigación on David Salazar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://davidsalazarpaz.github.io/Portafolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Competencia 1: 2020 Kaggle Machine Learning &amp; Data Science Survey</title>
+      <link>https://davidsalazarpaz.github.io/Portafolio/post/competition1/</link>
+      <pubDate>Wed, 06 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://davidsalazarpaz.github.io/Portafolio/post/competition1/</guid>
+      <description>El objetivo del desafío: contar una historia de datos sobre un subconjunto de la comunidad de ciencia de datos representada en una encuesta, a través de una combinación de texto narrativo y exploración de datos. Una &amp;ldquo;historia&amp;rdquo; puede definirse de varias formas, y eso es deliberado. El desafío es explorar en profundidad (a través de datos) el impacto, las prioridades o las preocupaciones de un grupo específico de profesionales de la ciencia de datos y el aprendizaje automático.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 4: Análisis de mercado inmobiliario (Python - Segunda parte)</title>
+      <link>https://davidsalazarpaz.github.io/Portafolio/post/project4/</link>
+      <pubDate>Tue, 05 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://davidsalazarpaz.github.io/Portafolio/post/project4/</guid>
+      <description>Properati es un portal web dedicado exclusivamente a la búsqueda de inmuebles en Latinoamérica, específicamente de países como Argentina, Colombia, Ecuador y Perú.
+Tiene disponibles datasets con más de 2 millones de propiedades publicadas en éstos países. Además, tiene interfaces interactivas con mapas coropléticos en las que se puede hacer predicción de precios por georreferenciación, encontrar propiedades con características específicas en determinadas zonas, entre otras.
+  Mapa de propiedades en venta según precio   Repositorio de Github</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 3: Análisis de mercado inmobiliario (Apache Spark)</title>
+      <link>https://davidsalazarpaz.github.io/Portafolio/post/project3/</link>
+      <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://davidsalazarpaz.github.io/Portafolio/post/project3/</guid>
+      <description>Properati es un portal web dedicado exclusivamente a la búsqueda de inmuebles en Latinoamérica, específicamente de países como Argentina, Colombia, Ecuador y Perú.
+Tiene disponibles datasets con más de 2 millones de propiedades publicadas en éstos países. Además, tiene interfaces interactivas con mapas coropléticos en las que se puede hacer predicción de precios por georreferenciación, encontrar propiedades con características específicas en determinadas zonas, entre otras.
+  Conteo de inmuebles por tipos de propiedad   Proyecto realizado en colaboración con Juan Rincón.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 2: Análisis de mercado inmobiliario (Python - Primera parte)</title>
+      <link>https://davidsalazarpaz.github.io/Portafolio/post/project2/</link>
+      <pubDate>Wed, 14 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://davidsalazarpaz.github.io/Portafolio/post/project2/</guid>
+      <description>Properati es un portal web dedicado exclusivamente a la búsqueda de inmuebles en Latinoamérica, específicamente de países como Argentina, Colombia, Ecuador y Perú.
+Tiene disponibles datasets con más de 2 millones de propiedades publicadas en éstos países. Además, tiene interfaces interactivas con mapas coropléticos en las que se puede hacer predicción de precios por georreferenciación, encontrar propiedades con características específicas en determinadas zonas, entre otras.
+  Mapa de propiedades en venta   Repositorio de Github</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 1: Google Play Store Apps (EDA)</title>
+      <link>https://davidsalazarpaz.github.io/Portafolio/post/project1/</link>
+      <pubDate>Tue, 06 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://davidsalazarpaz.github.io/Portafolio/post/project1/</guid>
+      <description>En tan solo 5 años desde su lanzamiento, Google Play había sobrepasado un millón de aplicaciones publicadas y había registrado más de 50 mil millones de descargas; por lo que es indispensable realizar un estudio que permita a los desarrolladores entrar en el mercado de una forma mejor direccionada.
+El objetivo de este proyecto es mostrar a través de conceptos de estadística descriptiva, relaciones entre las variables, las cuales podrían influir en la toma de decisiones para desenvolverse mejor en el mercado de las aplicaciones Android.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://davidsalazarpaz.github.io/Portafolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidsalazarpaz.github.io/Portafolio/contact/</guid>
+      <description>Github
+LinkedIn
+Slack</description>
+    </item>
+    
+  </channel>
+</rss>
